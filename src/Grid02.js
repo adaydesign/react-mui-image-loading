@@ -22,7 +22,7 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-const imageStyle = { width: 'inherit', height: 'inherit' }
+// const imageStyle = { width: 'inherit', height: 'inherit' }
 
   const tileData = [
     {
